@@ -714,7 +714,7 @@ story: a narrative, either true or fictitious, in prose or verse, designed to in
 straight: without a bend, angle, or curve; not curved; 
 strange: unusual, extraordinary, or curious; odd; queer: 
 street: a public thoroughfare, usually paved, in a village, town, or city, including the sidewalk or sidewalks.
-stretch: to draw out or extend (oneself, a body, limbs, wings, etc.) to the full length or extent (often followed by 
+stretch: to draw out or extend (oneself, a body, limbs, wings, etc.) to the full length or extent
 strong: having, showing, or able to exert great bodily or muscular power; physically vigorous or robust: 
 structure: mode of building, construction, or organization; arrangement of parts, elements, or constituents: 
 substance: that of which a thing consists; physical matter or material: 
