@@ -162,7 +162,7 @@ cotton: a soft, white, downy substance consisting of the hairs or fibers attache
 cough: to expel air from the lungs suddenly with a harsh noise, often involuntarily.
 country: a state or nation: 
 cover: to be or serve as a covering for; extend over; rest on the surface of: 
-cow: the mature female of a bovine animal, especially of the genus 
+cow: the mature female of a bovine animal, especially of the genus Bos.
 crack: to break without complete separation of parts; become fissured: 
 credit: commendation or honor given for some action, quality, etc.: 
 crime: an action or an instance of negligence that is deemed injurious to the public welfare or morals or to the interests of the state and that is legally prohibited.
@@ -195,8 +195,8 @@ detail: an individual or minute part; an item or particular.
 development: the act or process of 
 different: not alike in character or quality; distinct in nature; 
 digestion: the process in the alimentary canal by which food is broken up physically, as by the action of the teeth, and chemically, as by the action of enzymes, and converted into a substance suitable for absorption and assimilation into the body.
-direction: the act or an instance of 
-dirty: soiled with 
+direction: the act or an instance of directing
+dirty: soiled with dirt; foul; unclean
 discovery: the act or process of seeing, finding, or gaining knowledge of something previously unknown, or an instance of this:
 discussion: an act or instance of 
 disease: a disordered or incorrectly functioning organ, part, structure, or system of the body resulting from the effect of genetic or developmental errors, infection, poisons, nutritional deficiency or imbalance, toxicity, or unfavorable environmental factors; illness; sickness; ailme
@@ -219,12 +219,12 @@ dry: free from moisture or excess moisture; not moist; not wet:
 dust: earth or other matter in fine, dry particles.
 ear: the organ of hearing and equilibrium in vertebrates, in humans consisting of an external ear that gathers sound vibrations, a middle ear in which the vibrations resonate against the tympanic membrane, and a fluid-filled internal ear that maintains balance and that conducts the
 early: in or during the first part of a period of time, a course of action, a series of events, etc.: 
-earth: (
+earth: the planet third in order from the sun, having an equatorial diameter of 7,926 miles (12,755 km) and a polar diameter of 7,900 miles (12,714 km), a mean distance from the sun of 92.9 million miles (149.6 million km), and a period of revolution of 365.26 days, and having one satellite.
 east: a cardinal point of the compass, 90� to the right of north. 
 edge: a line or border at which a surface terminates: 
 education: the act or process of imparting or acquiring general knowledge, developing the powers of reasoning and judgment, and generally of preparing oneself or others intellectually for mature life.
 effect: something that is produced by an agency or cause; 
-egg: the roundish reproductive body produced by the female of certain animals, as birds and most reptiles, consisting of an ovum and its envelope of albumen, jelly, membranes, 
+egg: the roundish reproductive body produced by the female of certain animals, as birds and most reptiles, consisting of an ovum and its envelope of albumen, jelly, membranes, egg case, or shell, according to species.
 elastic: capable of returning to its original length, shape, etc., after being stretched, deformed, compressed, or expanded: 
 electric: pertaining to, derived from, produced by, or involving electricity: 
 end: the last part or extremity, lengthwise, of anything that is longer than it is wide or broad: 
@@ -234,7 +234,7 @@ equal: as great as; the same as (often followed by
 error: a deviation from accuracy or correctness; a mistake, as in action or speech: 
 even: 
 event: something that happens or is regarded as happening; an occurrence, especially one of some importance.
-ever: at all times; always: 
+ever: at all times; always
 every: being one of a group or series taken collectively; 
 example: one of a number of things, or a part of something, taken to show the character of the whole: 
 exchange: to give up (something) for something else; part with for some equivalent; change for another.
@@ -437,7 +437,7 @@ memory: the mental capacity or faculty of retaining and reviving facts, events, 
 metal: any of a class of elementary substances, as gold, silver, or copper, all of which are crystalline when solid and many of which are characterized by opacity, ductility, conductivity, and a unique luster when freshly fractured.
 middle: equally distant from the extremes or outer limits; central: 
 military: of, for, or pertaining to the army or armed forces, often as distinguished from the navy: 
-milk: an opaque white or bluish-white liquid secreted by the mammary glands of female mammals, serving for the nourishment of their young.
+milk: this liquid as secreted by cows, goats, or certain other animals and used by humans for food or as a source of butter, cheeses, yogurt, etc.
 mind: (in a human or other conscious being) the element, part, substance, or process that reasons, thinks, feels, wills, perceives, judges, etc.: 
 mine: a form of the possessive case of 
 minute: the sixtieth part (1/60) of an hour; sixty seconds.
@@ -617,7 +617,7 @@ say: to utter or pronounce;
 scale: 
 school: an institution where instruction is given, especially to persons under college age: 
 science: a branch of knowledge or study dealing with a body of facts or truths systematically arranged and showing the operation of general laws: 
-scissors: (
+scissors: a cutting instrument for paper, cloth, etc., consisting of two blades, each having a ring-shaped handle, that are so pivoted together that their sharp edges work one against the other
 screw: a metal fastener having a tapered shank with a helical thread, and topped with a slotted head, driven into wood or the like by rotating, especially by means of a screwdriver.
 sea: the salt waters that cover the greater part of the earth&#39;s surface.
 seat: something designed to support a person in a sitting position, as a chair, bench, or pew; a place on or in which one sits.
@@ -634,12 +634,12 @@ sense: any of the faculties, as sight, hearing, smell, taste, or touch, by which
 separate: to keep apart or divide, as by an intervening barrier or space: 
 serious: of, showing, or characterized by deep thought.
 servant: a person employed by another, especially to perform domestic duties.
-sex: the male, female, or sometimes intersex division of a species, especially as differentiated with reference to the reproductive functions or physical characteristics such as genitals, XX and XY chromosomes, etc.
+sex: 
 shade: the comparative darkness caused by the interception or screening of rays of light from an object, place, or area.
 shake: to move or sway with short, quick, irregular vibratory movements.
 shame: the painful feeling arising from the consciousness of something dishonorable, improper, ridiculous, etc., done by oneself or another: 
 sharp: having a thin cutting edge or a fine point; well-adapted for cutting or piercing: 
-sheep: any of numerous ruminant mammals of the genus 
+sheep: any of numerous ruminant mammals of the genus Ovis, of the family Bovidae, closely related to the goats, especially O. aries, bred in a number of domesticated varieties.
 shelf: a thin slab of wood, metal, etc., fixed horizontally to a wall or in a frame, for supporting objects.
 ship: a vessel, especially a large oceangoing one propelled by sails or engines.
 shirt: a long- or short-sleeved garment for the upper part of the body, usually lightweight and having a collar and a front opening.
@@ -650,7 +650,7 @@ shut: to put (a door, cover, etc.) in position to close or obstruct.
 side: one of the surfaces forming the outside of or bounding a thing, or one of the lines bounding a geometric figure.
 sign: a token; indication.
 silk: the soft, lustrous fiber obtained as a filament from the cocoon of the silkworm.
-silver: 
+silver: a white, ductile metallic element, used for making mirrors, coins, ornaments, table utensils, photographic chemicals, conductors, etc.
 simple: easy to understand, deal with, use, etc.: 
 sister: a female offspring having both parents in common with another offspring; female sibling.
 size: the spatial dimensions, proportions, magnitude, or bulk of anything: 
@@ -669,7 +669,7 @@ smoke: the visible vapor and gases given off by a burning or smoldering substanc
 smooth: free from projections or unevenness of surface; not rough: 
 snake: any of numerous limbless, scaly, elongate reptiles of the suborder Serpentes, comprising venomous and nonvenomous species inhabiting tropical and temperate areas.
 sneeze: to emit air or breath suddenly, forcibly, and audibly through the nose and mouth by involuntary, spasmodic action.
-snow: 
+snow: precipitation in the form of ice crystals, mainly of intricately branched, hexagonal form and often agglomerated into snowflakes, formed directly from the freezing of the water vapor in the air
 so: in the way or manner indicated, described, or implied: 
 soap: a substance used for washing and cleansing purposes, usually made by treating a fat with an alkali, as sodium or potassium hydroxide, and consisting chiefly of the sodium or potassium salts of the acids contained in the fat.
 society: an organized group of persons associated together for religious, benevolent, cultural, scientific, political, patriotic, or other purposes.
